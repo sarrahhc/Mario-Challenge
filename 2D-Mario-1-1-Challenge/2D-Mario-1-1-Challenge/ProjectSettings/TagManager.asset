@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - CoinBlock
+  - Deathzone
+  - Enemy
+  - EnemyKill
+  - WinTrigger
+  - MushroomBlock
+  - Mushroom
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Entity
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 331228259
+    locked: 0
+  - name: Foreground
+    uniqueID: 1118762255
+    locked: 0
+  - name: Entities
+    uniqueID: 3354712223
+    locked: 0
+  - name: Player
+    uniqueID: 983350175
+    locked: 0
